@@ -1,5 +1,5 @@
 /*A chess game created by Tom Shephard*/
-/*with more than a little help from ChatGPT :P*/
+/*with more than a little help from ChatGPT*/
 
 #include <GL/glut.h>
 #include <SOIL/SOIL.h>
