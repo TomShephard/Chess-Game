@@ -10,7 +10,6 @@ void createWindow(int argc, char **argv);
 
 int main (int argc, char **argv){
 
-    int loop = 1;
     char ** b = argv;
     
     createWindow(argc, b);
